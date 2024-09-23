@@ -1,13 +1,13 @@
 To view the project please visit this link: https://tayyabalicodes.github.io/clutch/
 
-I developed the Clutch website to provide a dynamic and modern digital presence for businesses looking to elevate their brand. This project showcases a responsive design with a focus on user experience and high-quality visuals, allowing companies to easily present their services and offerings.
+I contributed to the development of Clutch.com, a renowned platform that helps businesses connect with top service providers in various industries such as IT services, marketing, and web development. The project focuses on creating a user-friendly experience where companies can find trusted vendors based on detailed client reviews and ratings.
 
 Key Features:
 
-Fully responsive layout ensuring optimal performance across all devices.
+Robust search functionality to help users find vendors by industry and expertise.
 
-Clean, minimalist design with engaging animations and smooth navigation.
+Verified reviews from real clients, providing transparency and trust.
 
-Custom sections for services, results, and client testimonials to enhance credibility.
+Comprehensive directories and leaderboards, showcasing top-performing businesses.
 
-Integration of call-to-action buttons to encourage user engagement.
+Responsive design optimized for desktop and mobile users.
